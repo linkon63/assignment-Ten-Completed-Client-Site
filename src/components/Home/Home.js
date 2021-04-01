@@ -25,7 +25,6 @@ const Home = () => {
                         <Spinner animation="border" role="status">
                             <span className="sr-only">Loading...</span>
                         </Spinner>
-                        <h1>Spinner</h1>
                     </div> :
                         <div>
                             <div className='header'>
