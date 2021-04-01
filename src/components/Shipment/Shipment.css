@@ -1,0 +1,33 @@
+.heading{
+    text-align: center;
+    margin: 20px 0;
+    color: darkgreen;
+    font-family: unset;
+}
+.fromBody{
+    width: 80%;
+    margin: 0 auto;
+}
+.ship-form{
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+}
+.fromBody{
+    border: 1px solid red;
+}
+
+.ship-body input{
+    width: 48%;
+    margin: 8px 0px;
+    padding: 20px 16px;
+    color: black;
+    font-size: inherit;
+    border: none;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.btn{
+    background-color:  green !important;
+    color: honeydew !important;
+}

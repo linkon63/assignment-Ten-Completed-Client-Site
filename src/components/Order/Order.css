@@ -1,0 +1,27 @@
+.orderBody{
+    background: linear-gradient(
+        353deg
+        , #d4d4d4, transparent);
+}
+.orders{
+    width: 80%;
+    margin: 0 auto;
+}
+.order-details{
+    border: 1px solid rebeccapurple;
+    padding: 15px 12px;
+    background: white;
+    margin: 10px 0;
+    color: darkgreen;
+    width: 100%;
+    text-align: justify;
+    border-radius: 5px;
+}
+.cancelOrder{
+    background: red;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    font-weight: bolder;
+    border-radius: 3px;
+}

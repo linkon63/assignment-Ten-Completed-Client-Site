@@ -1,0 +1,9 @@
+.dataCard{
+    background: white;
+    margin: 12px 0px;
+    padding: 25px 15px;
+}
+.dataCard h4 {
+    color: darkgreen;
+    font-size: large;
+}

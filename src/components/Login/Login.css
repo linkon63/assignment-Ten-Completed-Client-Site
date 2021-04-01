@@ -1,0 +1,15 @@
+.loginPage{
+    width: 90%;
+    margin: 140px auto;
+    text-align: center;
+}
+.googlebtn{
+    border: none;
+    padding: 14px 57px;
+    font-size: 16px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 11px 10px 9px -3px whitesmoke;
+    background-color: seagreen;
+}
